@@ -51,5 +51,7 @@ Unit tests
 11-13 I haven't really worked with unit testing. But definitely looking forward to an opportunity to effectively learn with it.
 
 React
+14-15 were attempted here is a link https://a24.netlify.app/
 
+16. was not able to attempt it.
 
