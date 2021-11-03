@@ -1,4 +1,4 @@
-# A24
+# A24 Test
 
 Javascript:
 
@@ -50,6 +50,6 @@ Unit tests
 
 11-13 I haven't really worked with unit testing. But definitely looking forward to an opportunity to effectively learn with it.
 
- 
+React
 
 
